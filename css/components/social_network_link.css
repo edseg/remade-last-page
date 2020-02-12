@@ -1,0 +1,5 @@
+.social_network_link {
+	display: inline-flex;
+	border-radius: 50%;
+	margin: 20px;
+}
